@@ -40,4 +40,4 @@ Este conjunto de pruebas unitarias ha sido diseñado para ayudarte a comprender 
 
    ```
 
-   ✨ Espero que estas pruebas sean útiles para tus proyectos y te inspiren a desarrollar software más robusto y confiable. ¡Éxito en tu aprendizaje y desarrollo profesional! ✨
+   Espero que estas pruebas sean útiles para tus proyectos y que te ayuden a generar código más sólido y confiable.
