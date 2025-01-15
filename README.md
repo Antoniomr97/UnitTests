@@ -1,7 +1,7 @@
 # UnitTests
 
-¡Bienvenido al proyecto **UnitTests**! 🚀  
-Este proyecto contiene pruebas unitarias simples diseñadas para ayudar a comprender su funcionamiento y facilitar su aplicación en entornos más complejos.
+¡Bienvenido a UnitTests! 🚀
+Este conjunto de pruebas unitarias ha sido diseñado para ayudarte a comprender su funcionamiento básico y facilitar su aplicación en escenarios más complejos.
 
 ## Requisitos
 
