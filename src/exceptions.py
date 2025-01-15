@@ -1,0 +1,3 @@
+
+class WithdrawalTimeRestrictionError(Exception):
+    pass
